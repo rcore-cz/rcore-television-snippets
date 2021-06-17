@@ -7,6 +7,7 @@
 
 locales
 - english
+- spanish by EmiN364
 
 ---
 
